@@ -6,12 +6,17 @@ Command line tool to perform image processing.
 * Install numpy, scipy, matplotlib, pillow.
 
 ### Manual
-* Run the command:
+* Install package:
 ```bash
+pip3 install imgmagic
+```
+
+* Or use the tool with the command:
+```python
 python3 main.py /path/input-image.jpeg /path/output-image.jpeg [OPT] [ARGS]
 ```
  
-```bash
+```python
 python3 main.py --help
 ```
 
