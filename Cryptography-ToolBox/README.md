@@ -1,4 +1,4 @@
-# CryptoBox
+# Cryptography Toolbox
 Toolbox for cryptography.
 
 ### Libraries
